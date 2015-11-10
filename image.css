@@ -1,0 +1,56 @@
+*{
+   margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: width: 100%;
+}
+
+.banner{
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/5847/viewport-selection-opt.jpg) no-repeat 30% 30%;
+    max-width: 100%;
+    height: auto;
+  padding: 8rem 0;
+    background-color: white;
+    margin: 0px 0rem 2rem 0rem;
+}
+
+
+
+body{
+  font-family: 'Lora', serif; 
+background-color:#384346;
+    margin: 2px 4rem ;   
+/*width: 100%;*/
+}
+.wrapper{
+ margin: 0 auto;
+   
+}
+
+ul {
+  list-style: none;
+   
+}
+picture img{
+  max-width: 100%;
+}
+
+li {
+   float: left;
+    margin-left: 4px;
+   
+    
+}
+
+footer p{
+    background: brown;
+    color:yellow;
+    text-align: center;
+   }
+
+.footer{
+padding-top: 1%;
+font-style: italic;
+ 
+    clear: both;
+}
